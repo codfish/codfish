@@ -13,7 +13,7 @@ Full-stack engineer currently specializing in frontend development. Passionate a
   <li>📫 How to reach me: chris at codfish.dev</li>
 </ul>
 
-![Static Badge](https://img.shields.io/badge/60%_of_the_time-works_every_time-4F8DF0)
+![Static Badge](https://img.shields.io/badge/60%25_of_the_time-works_every_time-4F8DF0)
 </td>
 
 <td align="right" valign="top">
