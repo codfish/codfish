@@ -13,8 +13,9 @@ I'm a full-stack engineer currently specializing in frontend development. Passio
 
 - 👨‍👩‍👦‍👦 Loving husband and father to 2 boys.
 
-- 💬 Chat with me about **Frontend development**, **Staff+** engineering, **testing** and **dev tooling**.
-
-- 🤙🏻 Reach out: [Email](chris@codfish.dev), [Calendly](https://calendly.com/codfish)
+- 💬 Chat with me about **Frontend development**, **Staff+** engineering, **testing** and **dev tooling**. [Email](chris@codfish.dev), [Calendly](https://calendly.com/codfish)
 
 ![codfish's github stats](https://github-readme-stats.vercel.app/api?username=codfish&count_private=true&show_icons=true&theme=algolia)
+
+<!-- To record visits, while using the cached shields.io badge above. -->
+<img src="https://hits.dwyl.com/codfish/codfish.svg" hidden>
