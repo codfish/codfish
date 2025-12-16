@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm a full-stack engineer currently specializing in front-end development. Passionate about building products, developer experience, tooling, automation & enablement. Figuring out how to improve developers' lives and making work more enjoyable while still delivering quality work quickly & consistently!
+I'm a full-stack engineer currently specializing in frontend development. Passionate about building products, developer experience, tooling, automation & enablement. Figuring out how to improve developers' lives and making work more enjoyable while still delivering quality work quickly & consistently!
 
 - 🌱 Currently engineering payments & banking @ [LeafLink](https://www.github.com/leaflink).
 
@@ -10,7 +10,7 @@ I'm a full-stack engineer currently specializing in front-end development. Passi
 
 - 👨‍👩‍👦‍👦 Loving husband and father to 2 boys.
 
-- 💬 Chat with me about **front-end development**, **Staff+** engineering, **testing** and **dev tooling**. [Email](mailto:chris@codfish.dev), [Calendly](https://calendly.com/codfish)
+- 💬 Chat with me about **frontend development**, **Staff+** engineering, **testing** and **dev tooling**. [Email](mailto:chris@codfish.dev), [Calendly](https://calendly.com/codfish)
 
 ![codfish's github stats](https://github-readme-stats.vercel.app/api?username=codfish&count_private=true&show_icons=true&theme=algolia)  <!-- Tracking pixel to record github visits --><img src="https://hits.dwyl.com/codfish/codfish.svg" width="0" height="0">
 
